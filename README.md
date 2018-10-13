@@ -1,4 +1,4 @@
-# Displaying a Tic Tac Toe Board
+polate # Displaying a Tic Tac Toe Board
 
 ## Overview
 
